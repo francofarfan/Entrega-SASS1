@@ -1,0 +1,17 @@
+@import "variables.scss";
+@import "footer.scss";
+
+
+.barraSeccionMujer{
+    background-color: #fa85f0;
+    opacity: 60%;
+    margin-top: 20px;
+}
+
+.btn-primary{
+    background-color: $colorBtnCompra
+}
+
+.card{
+    background-color: $colorBgCardMujer
+}
